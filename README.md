@@ -26,10 +26,10 @@ And Through That application User Make Multiple Things:
 9- LogOut And Auth With Another Account
 
 ## Tools
-=>Bloc for state managment
-=>FlutterNativeSplash
-=>SharedPreferences
-=>SQFLite
-=>Intl
-=>SmoothPageIndicator
-=>FlutterSvg
+- Bloc for state managment
+- FlutterNativeSplash
+- SharedPreferences
+- SQFLite
+- Intl
+- SmoothPageIndicator
+- FlutterSvg
