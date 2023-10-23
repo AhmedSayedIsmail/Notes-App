@@ -43,10 +43,7 @@ And Through That application User Make Multiple Things:
 <img src="https://github.com/AhmedSayedIsmail/Notes-App/assets/93168569/5db690a9-7aa8-4ca3-8a08-1b8cbe5f6867" width="300"/>
 
 <img src="https://github.com/AhmedSayedIsmail/Notes-App/assets/93168569/85422610-b700-4de6-a0a6-765f227d1797" width="300"/>
-</div>
 
-
-<div>
 <img src="https://github.com/AhmedSayedIsmail/Notes-App/assets/93168569/33807faa-ab99-44a8-8c6e-ed68c5fe8939" width="300"/>
 
 <img src="https://github.com/AhmedSayedIsmail/Notes-App/assets/93168569/6289f5dd-b539-4f67-8a16-1dd63be16858" width="300"/>
