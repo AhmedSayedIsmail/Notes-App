@@ -31,6 +31,7 @@ And Through That application User Make Multiple Things:
 - SharedPreferences
 - SQFLite
 - Intl
+- Equatable
 - SmoothPageIndicator
 - FlutterSvg
   
